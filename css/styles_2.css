@@ -1,0 +1,214 @@
+div.box{
+    height:10px;
+    width:170px;
+    text-align:center;
+    font-size:14px;;
+    background-color: black;
+    color: aliceblue;
+    display: inline-block;
+    
+   }
+
+div.green{
+    color: black;
+    height: 700px;
+    display:inline-block;
+    
+}
+
+div.back{
+    background-color: black;
+    
+}
+    
+
+div.list{
+    color:aliceblue;
+    background-color: black;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    
+}
+
+div.pink{
+    color: black;
+}
+
+div.text{
+    color: aliceblue;
+    background-color: black;
+    padding-top: 50px;
+    width: 200px;
+    text-align: center;
+    display: inline-block;
+}
+
+
+div.other{
+    color: aliceblue;
+    background-color: black;
+    width: 200px;
+    text-align: center;
+    
+}
+
+
+div.black{
+    background-color: black;
+    width: 200px;
+}
+
+
+div.hoover{
+padding-top: 40px;
+color: aliceblue;
+background-color: black;
+width: 200px;
+text-align: center;
+display: inline-block;
+}
+
+
+div.essense{
+color: aliceblue;
+background-color: black;
+width: 200px;
+text-align: center;
+}
+
+
+
+div.mix{
+  background-color: black;
+  width: 200px;
+  color: aliceblue;
+  height: 50px;
+  
+}
+
+
+div.range{
+    color:aliceblue;
+    background-color: black;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+   
+}
+
+
+
+
+
+
+
+div.tricolor{
+    color: black;
+    background-color: white;
+    height: 50px;
+    display: inline-block;
+    padding-left: 150px;
+    font-size: 22px;
+
+
+  
+   
+}
+
+
+
+
+
+
+div.table{
+    color:aliceblue;
+    background-color: black;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    display: inline-block;
+    padding-top: 70px;
+
+}
+
+
+
+
+div.delete{
+    color:aliceblue;
+    background-color: black;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+   
+}
+
+div.tundra{
+    color:aliceblue;
+    background-color: black;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    display: inline-block;
+    
+}
+
+
+
+div.rude{
+
+    color: black;
+    background-color: white;
+    height: 50px;
+    text-align: center;
+    padding-left: 100px;
+    font-size: 22px;
+}
+
+div.ggg{
+    color:aliceblue;
+    background-color: black;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    padding-top: 70px;
+
+}
+
+
+body{
+    background: url(sneakers.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 800px;
+
+}
+
+
+
+div.pitbul{
+    display: inline-block;
+ 
+    text-align: center;
+    text-transform: uppercase;
+    width: 170px;
+    height: 50px;
+    
+  
+}
+
+
+div.marco{
+   display: inline-block;
+   width: 150px;
+   height: 50px;
+  
+}
+
+
+div.union{
+    padding-left: 950px;
+    display: inline-block;
+
+}
